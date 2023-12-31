@@ -1,0 +1,139 @@
+
+[
+    {
+      "control": "input",
+      "type": "email",
+      "label": "Email",
+      "name": "email",
+      "placeholder": "enter your email",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "text",
+      "label": "Name",
+      "name": "name",
+      "placeholder": "enter your name",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "text",
+      "label": "First Name",
+      "name": "firstName",
+      "placeholder": "enter your First Name",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "text",
+      "label": "Last Name",
+      "name": "lastName",
+      "placeholder": "enter your Last Name",
+      "formik": "formik"
+     
+    },
+    {
+        "control": "input",
+        "type": "password",
+        "label": "Password",
+        "name": "password",
+        "placeholder": "enter your Password",
+        "formik": "formik"
+       
+      },
+      {
+        "control": "radio",
+        "label": "Roles: ",
+        "name": "radioOption",
+        "formik": "formik",
+        "options": [
+          {"key": "Admin", "value": "admin"},
+          {"key": "Customer", "value": "customer"}
+  ]
+      },
+    {
+      "control": "input",
+      "type": "number",
+      "label": "contact",
+      "name": "contact",
+      "placeholder": "enter your Contact No",
+      "formik": "formik"
+ 
+    },
+    {
+      "control": "input",
+      "type": "date",
+      "label": "Date",
+      "name": "date",
+      "placeholder": "enter Date",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "color",
+      "label": "Color",
+      "name": "color",
+      "placeholder": "Color",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "file",
+      "label": "File",
+      "name": "file",
+      "placeholder": "File",
+      "formik": "formik",
+      "errorClass": "stylesInput.error_message"
+    },
+    {
+      "control": "input",
+      "type": "month",
+      "label": "Month",
+      "name": "month",
+      "placeholder": "File",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "range",
+      "label": "Range",
+      "name": "range",
+      "placeholder": "Range",
+      "formik": "formik"
+    },
+    {
+      "control": "input",
+      "type": "time",
+      "label": "Time",
+      "name": "time",
+      "placeholder": "Time",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "url",
+      "label": "Url",
+      "name": "url",
+      "placeholder": "Url",
+      "formik": "formik"
+     
+    },
+    {
+      "control": "input",
+      "type": "week",
+      "label": "Week",
+      "name": "week",
+      "placeholder": "Week",
+      "formik": "formik"
+     
+    }
+  ]
+  

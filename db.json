@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Red Polo Shirt",
+      "category": "Men's Clothing",
+      "description": "Stylish red polo shirt made from breathable fabric.",
+      "price": "$29.99"
+    },
+    {
+      "id": 4,
+      "title": "Printed Tote Bag",
+      "category": "Accessories",
+      "description": "Stylish printed tote bag with spacious compartments.",
+      "price": "$19.99"
+    },
+    {
+      "id": 6,
+      "title": "Casual Sneakers",
+      "category": "Men's Footwear",
+      "description": "Casual sneakers in neutral tones for everyday wear.",
+      "price": "$44.99"
+    },
+    {
+      "id": 12,
+      "title": "Boho Maxi Skirt",
+      "category": "Women's Clothing",
+      "description": "Flowy boho maxi skirt for a relaxed bohemian style.",
+      "price": "$54.99"
+    },
+    {
+      "id": 13,
+      "title": "Fitness Tracker",
+      "category": "Sports & Outdoors",
+      "description": "Compact fitness tracker with heart rate monitoring.",
+      "price": "$59.99"
+    },
+    {
+      "id": 14,
+      "title": "Aviator Sunglasses",
+      "category": "Accessories",
+      "description": "Classic aviator sunglasses with UV protection.",
+      "price": "$29.99"
+    },
+    {
+      "id": 16,
+      "title": "Canvas Sneakers",
+      "category": "Men's Footwear",
+      "description": "Casual canvas sneakers in various colors for a laid-back look.",
+      "price": "$34.99"
+    },
+    {
+      "id": 18,
+      "title": "Bluetooth Headphones",
+      "category": "Electronics",
+      "description": "Wireless Bluetooth headphones with over-ear design.",
+      "price": "$79.99"
+    },
+    {
+      "id": 19,
+      "title": "Leather Belt",
+      "category": "Accessories",
+      "description": "Classic leather belt with a polished buckle.",
+      "price": "$39.99"
+    },
+    {
+      "id": 20,
+      "title": "Camping Tent",
+      "category": "Outdoor Gear",
+      "description": "Spacious camping tent for outdoor adventures.",
+      "price": "$129.99"
+    },
+    {
+      "title": "Coffe",
+      "category": "liquid",
+      "description": " dsnf sf kfmn sfskmfs,m ffkl;m ,sfl;sf",
+      "price": "32454",
+      "id": 22
+    },
+    {
+      "title": "parrot",
+      "category": "bird",
+      "description": "this is my green parrot",
+      "price": "3000",
+      "id": 23
+    },
+    {
+      "title": "gray parrot",
+      "category": "bird",
+      "description": "this is very good bird.this is very good bird\nthis is very good bird\nthis is very good bird",
+      "price": "40000",
+      "id": 24
+    },
+    {
+      "title": "hens",
+      "category": "animal",
+      "description": "mkds d sn jkldsnd nsdsfjdn sfs\nsdksfsn fdnmf dnfs\ndsknfs",
+      "price": "100000",
+      "id": 25
+    }
+  ]
+}
